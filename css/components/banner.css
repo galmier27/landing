@@ -1,0 +1,35 @@
+
+
+.banner{
+  height: 500px;
+  margin: 0 auto;
+  background-image: url("/landing/images/background.png");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.banner h1 {
+  color: white;
+  margin-bottom: 0 ;
+}
+
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 45px;
+}
+
+
+.banner a {
+  color: white;
+  background-color: #1EDD88;
+  padding: 15px 25px;
+  border-radius: 30px;
+}
